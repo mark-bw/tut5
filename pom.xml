@@ -9,8 +9,8 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-    <maven.comiler.source>1.8</maven.comiler.source>
-    <maven.comiler.target>1.8</maven.comiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   
   <dependencies>
