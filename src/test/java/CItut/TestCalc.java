@@ -6,12 +6,12 @@ import CItut.Calc;
 
 public class TestCalc {
    @Test
-    public void testCalc() {
+    public void testSubtract() {
         assertEquals(7, new Calc().subtract(10, 3));
     }
    
    @Test
-	public void testCalc() {
+	public void testAdd() {
 		assertEquals(5, new Calc().add(2, 3));
 	}
 
